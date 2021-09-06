@@ -133,7 +133,7 @@ The evaluation metric scores for the test split of the development dataset is gi
 
 ## Submission
 
-* Before submission, make sure your SELD results look good by visualizing the results using `visualize_SELD_output.py` script
+* Before submission, make sure your SELD results look good by visualizing the results using `visualize_SELD_output.py` script (modify line 43 so the results wanted are taken)
 * Make sure the file-wise output you are submitting is produced at 100 ms hop length. At this hop length a 60 s audio file has 600 frames.
 
 For more information on the submission file formats [check the website](http://dcase.community/challenge2020/task-sound-event-localization-and-detection#submission)
